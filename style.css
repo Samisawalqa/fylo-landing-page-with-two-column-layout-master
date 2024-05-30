@@ -364,6 +364,7 @@ body {
         img {
             width: 15px;
             height: 15px;
+            order: 1;
         }
     }
 
